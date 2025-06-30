@@ -1,7 +1,7 @@
 # weather_app
 
 A new Flutter project.
-
+![WeatherApp Image](https://i.postimg.cc/sgWQ89vh/Whats-App-Image-2025-06-30-at-10-35-20-b1798a69.jpg)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
